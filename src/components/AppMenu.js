@@ -20,25 +20,30 @@ class AppMenu extends Component {
   render() {
     return (
       <Router>
-        <Navbar color="green" dark expand="md" scrolling>
-          <NavbarBrand href="/">
-              <strong>DSC Lead City University</strong>
-          </NavbarBrand>
-          { !this.state.isWideEnough && <NavbarToggler onClick = { this.onClick } />}
-          <Collapse isOpen = { this.state.collapse } navbar>
-            <NavbarNav right>
-              <NavItem>
-                <NavLink to="#">Blog</NavLink>
-              </NavItem>
-              <NavItem active>
-                <NavLink to="#">Home</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink to="#">Workshops</NavLink>
-              </NavItem>
-            </NavbarNav>
-          </Collapse>
-        </Navbar>
+        <div>
+          <Navbar color="green" dark expand="md" scrolling>
+            <NavbarBrand href="/">
+                <strong>DSC Lead City University</strong>
+            </NavbarBrand>
+            { !this.state.isWideEnough && <NavbarToggler onClick = { this.onClick } />}
+            <Collapse isOpen = { this.state.collapse } navbar>
+              <NavbarNav right>
+                <NavItem>
+                  <NavLink to="#">Blog</NavLink>
+                </NavItem>
+                <NavItem active>
+                  <NavLink to="/">Home</NavLink>
+                </NavItem>
+                <NavItem>
+                  <NavLink to="/workshops">Workshops</NavLink>
+                </NavItem>
+              </NavbarNav>
+            </Collapse>
+          </Navbar>
+
+          <Route exact path="/" component={Home} />
+          <Route path="/worskops" component={Workshops} />
+        </div>
       </Router>
     );
   }
