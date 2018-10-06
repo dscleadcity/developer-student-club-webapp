@@ -1,6 +1,6 @@
-.App {
+body {
   text-align: center;
-  color: white;
+  background-color: #1C2331;
 }
 
 a:link, a:active, a:visited {

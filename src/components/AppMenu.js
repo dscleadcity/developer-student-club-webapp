@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { Navbar, NavbarBrand, NavbarNav, NavbarToggler, Collapse, NavItem, NavLink } from 'mdbreact';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+
+import Home from './views/home';
+import Workshops from './views/workshops';
 
 class AppMenu extends Component {
   constructor(props) {
@@ -42,7 +45,7 @@ class AppMenu extends Component {
           </Navbar>
 
           <Route exact path="/" component={Home} />
-          <Route path="/worskops" component={Workshops} />
+          <Route path="/workshops" component={Workshops} />
         </div>
       </Router>
     );
