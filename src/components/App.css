@@ -6,3 +6,7 @@ body {
 a:link, a:active, a:visited {
   color: #61dafb;
 }
+
+#title {
+  margin-top: 1em;
+}
