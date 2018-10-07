@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import Home from './views/home';
 import Workshops from './views/workshops';
+import Join from './views/join';
 
 class AppMenu extends Component {
   constructor(props) {
@@ -40,12 +41,16 @@ class AppMenu extends Component {
                 <NavItem>
                   <NavLink to="/workshops">Workshops</NavLink>
                 </NavItem>
+                <NavItem>
+                  <NavLink to="/join">Join</NavLink>
+                </NavItem>
               </NavbarNav>
             </Collapse>
           </Navbar>
 
           <Route exact path="/" component={Home} />
           <Route path="/workshops" component={Workshops} />
+          <Route path="/join" component={Join} />
         </div>
       </Router>
     );
