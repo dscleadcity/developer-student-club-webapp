@@ -9,7 +9,7 @@ export default class CardExample extends Component {
       <div>
         <div class="container">
 
-          <h3 id="title" class="white-text">WORKSHOPS 2018/2019</h3> 
+          <h3 class="white-text content">WORKSHOPS 2018/2019</h3> 
           
           <div class="row content">
             <div class="col"></div>

@@ -12,7 +12,7 @@ export default class Home extends Component {
     return(
       <div>
         <img style={roundImg} src="https://res.cloudinary.com/poetrique/image/upload/v1538920604/developer-student-club/dsc.png" alt="Developer Student Club" title="Developer Student Club" />
-        <h3 id="title" class="white-text">WHAT ARE DEVELOPER STUDENT CLUBS?</h3>
+        <h3 class="white-text content">WHAT ARE DEVELOPER STUDENT CLUBS?</h3>
         <div id="content" class="container">
           <div class="row">
             <div class="col"></div>

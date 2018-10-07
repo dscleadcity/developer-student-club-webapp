@@ -8,11 +8,6 @@ a:link, a:active, a:visited {
   color: #61dafb;
 }
 
-#title {
-  margin-top: 1em;
-  font-weight: bold;
-}
-
 .content {
   margin-top: 1em;
   margin-bottom: 1em;
