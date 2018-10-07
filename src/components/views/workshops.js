@@ -10,7 +10,7 @@ export default class CardExample extends Component {
         <div class="container">
 
           <h3 class="white-text content">WORKSHOPS 2018/2019</h3> 
-          
+
           <div class="row content">
             <div class="col"></div>
             <div class="col-10 col-sm-8">

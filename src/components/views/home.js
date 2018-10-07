@@ -11,7 +11,9 @@ export default class Home extends Component {
   render() {
     return(
       <div>
+
         <img style={roundImg} src="https://res.cloudinary.com/poetrique/image/upload/v1538920604/developer-student-club/dsc.png" alt="Developer Student Club" title="Developer Student Club" />
+
         <h3 class="white-text content">WHAT ARE DEVELOPER STUDENT CLUBS?</h3>
         <div id="content" class="container">
           <div class="row">
@@ -24,6 +26,22 @@ export default class Home extends Component {
             <div class="col"></div>
           </div>
         </div>
+
+        <h3 class="white-text content">DSC MEMBERSHIP BENEFITS</h3>
+        <div id="content" class="container">
+          <div class="row">
+            <div class="col"></div>
+            <div class="col-10 col-sm-6">
+              <ul>
+                <li className="light-green-text">Technical skills: Throughout the program, students would be introduced to mobile app development courses developed by Google developers and Udacity</li>
+                <li className="light-green-text">Opportunity to acquire and demonstrate soft skills through leadership, team management, budget management, communication and project management skills</li>
+                <li className="light-green-text">Gain project-based work experience by identifying and solving local businesses’ problems using technology</li>
+              </ul>
+            </div>
+            <div class="col"></div>
+          </div>
+        </div>
+
       </div>
     );
   }
