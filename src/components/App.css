@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #1C2331;
+  font-family: 'Space Mono', monospace;
 }
 
 a:link, a:active, a:visited {
@@ -9,4 +10,10 @@ a:link, a:active, a:visited {
 
 #title {
   margin-top: 1em;
+  font-weight: bold;
+}
+
+.content {
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
