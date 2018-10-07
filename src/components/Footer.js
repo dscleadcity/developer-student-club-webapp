@@ -1,0 +1,18 @@
+import React, { Component } from 'react';
+
+import './App.css';
+
+const footerStyle = {
+  textAlign: "center",
+  marginTop: "2em"
+}
+
+export default class Footer extends Component {
+  render() {
+    return(
+      <div style={footerStyle}>
+        <h6 class="white-text">DSC Lead City University &copy; 2018 | All Rights Reserved</h6>
+      </div>
+    );
+  }
+}
