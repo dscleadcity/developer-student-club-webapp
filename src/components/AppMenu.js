@@ -33,7 +33,7 @@ class AppMenu extends Component {
             <Collapse isOpen = { this.state.collapse } navbar>
               <NavbarNav right>
                 <NavItem>
-                  <NavLink to="#">Blog</NavLink>
+                  <NavLink to="/blog">Blog</NavLink>
                 </NavItem>
                 <NavItem active>
                   <NavLink to="/">Home</NavLink>
@@ -48,6 +48,7 @@ class AppMenu extends Component {
             </Collapse>
           </Navbar>
 
+          <Route path='/blog' component={() => window.location = 'http://dscleadcity.blogspot.com'}/>
           <Route exact path="/" component={Home} />
           <Route path="/workshops" component={Workshops} />
           <Route path="/join" component={Join} />
