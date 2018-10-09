@@ -27,7 +27,7 @@ export default class Join extends Component {
   
   renderRedirect = () => {
     if (this.state.redirect) {
-      return <Redirect to='/home' />
+      return <Redirect to='/' />
     }
   }
 
