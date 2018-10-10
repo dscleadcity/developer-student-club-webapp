@@ -13,7 +13,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardImage className="img-fluid" src="https://res.cloudinary.com/poetrique/image/upload/v1538925366/dsc-workshops/dscleadcity-WORKSHOP_1.png" waves />
                 <CardBody>
@@ -31,7 +31,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardImage className="img-fluid" src="https://res.cloudinary.com/poetrique/image/upload/v1539166043/dsc-workshops/DSCworkshop_2.png" waves />
                 <CardBody>
@@ -48,7 +48,7 @@ export default class CardExample extends Component {
           </div>
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Cloud Firestore and Web</CardTitle>
@@ -65,7 +65,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>App Monetization</CardTitle>
@@ -82,7 +82,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Using Firebase Test Lab to improve Mobile App quality</CardTitle>
@@ -99,7 +99,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Using Google Cloud Test Lab to improve Mobile App quality</CardTitle>
@@ -116,7 +116,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Intro to Android development with Kotlin</CardTitle>
@@ -133,7 +133,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Build Your First Android App in Kotlin</CardTitle>
@@ -150,7 +150,7 @@ export default class CardExample extends Component {
 
           <div class="row content">
             <div class="col"></div>
-            <div class="col-10 col-sm-8">
+            <div class="col-12 col-sm-8">
               <Card>
                 <CardBody>
                   <CardTitle>Get your Startup started</CardTitle>
