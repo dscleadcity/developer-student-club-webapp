@@ -15,7 +15,7 @@ export default class Home extends Component {
         <img style={roundImg} src="https://res.cloudinary.com/poetrique/image/upload/v1538920604/developer-student-club/dsc.png" alt="Developer Student Club" title="Developer Student Club" />
 
         <h3 class="white-text content">WHAT ARE DEVELOPER STUDENT CLUBS?</h3>
-        <div id="content" class="container">
+        <div class="container">
           <div class="row">
             <div class="col"></div>
             <div class="col-12 col-sm-6">
@@ -28,7 +28,7 @@ export default class Home extends Component {
         </div>
 
         <h3 class="white-text content">DSC MEMBERSHIP BENEFITS</h3>
-        <div id="content" class="container">
+        <div class="container">
           <div class="row">
             <div class="col"></div>
             <div class="col-12 col-sm-6">
