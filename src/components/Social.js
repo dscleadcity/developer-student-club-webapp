@@ -25,13 +25,10 @@ export default class Social extends Component {
             <Col xs={12} md={4}>
               <Col xs={2}></Col>
               <Col xs={3}>
-                <a href="https://facebook.com/rocnigeria"><i class="fab fa-facebook-square fa-3x"></i></a>
-              </Col>
-              <Col xs={3}>
-                <a href="https://instagram.com/rocworldng"><i class="fab fa-instagram fa-3x"></i></a>
+                <a href="https://instagram.com/dscleadcity"><i class="fab fa-instagram fa-3x"></i></a>
               </Col>
               <Col xs={4}>
-                <a href="https://twitter.com/rocworldng"><i class="fab fa-twitter-square fa-3x"></i></a>
+                <a href="https://twitter.com/dscleadcity"><i class="fab fa-twitter-square fa-3x"></i></a>
               </Col>
             </Col>
             <Col xsHidden md={4}></Col>
