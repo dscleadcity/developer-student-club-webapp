@@ -12,28 +12,11 @@ export default class Social extends Component {
   render() {
     return (
       <div>
-        <Grid>
-          <Row>
-            <Col xsHidden md={4}></Col>
-            <Col xs={12} md={4}>
-              <h3 style={powerStyle}>Like & Follow Us On</h3>
-            </Col>
-            <Col xsHidden md={4}></Col>
-          </Row>
-          <Row>
-            <Col xsHidden md={4}></Col>
-            <Col xs={12} md={4}>
-              <Col xs={2}></Col>
-              <Col xs={3}>
-                <a href="https://instagram.com/dscleadcity"><i class="fab fa-instagram fa-3x"></i></a>
-              </Col>
-              <Col xs={4}>
-                <a href="https://twitter.com/dscleadcity"><i class="fab fa-twitter-square fa-3x"></i></a>
-              </Col>
-            </Col>
-            <Col xsHidden md={4}></Col>
-          </Row>
-        </Grid>
+          <h3 style={powerStyle}>Like & Follow Us On</h3>
+
+          <a href="https://instagram.com/dscleadcity"><i class="fab fa-instagram fa-3x"></i></a>
+
+          <a href="https://twitter.com/dscleadcity"><i class="fab fa-twitter-square fa-3x"></i></a>
       </div>
     );
   }
