@@ -18,14 +18,14 @@ export default class Social extends Component {
           <div class="row">
             <div class="col"></div>
             <div class="col-12 col-sm-6">
-              <div class="col-2"></div>
+              <div class="col"></div>
               <div class="col-4">
                 <a href="https://instagram.com/dscleadcity"><i class="fab fa-instagram fa-3x"></i></a>
               </div>
               <div class="col-4">
                 <a href="https://twitter.com/dscleadcity"><i class="fab fa-twitter fa-3x"></i></a>
               </div>
-              <div class="col-2"></div>
+              <div class="col"></div>
             </div>
             <div class="col"></div>
           </div>
