@@ -37,7 +37,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Build a Node.js web app using Google Cloud</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -53,7 +53,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Cloud Firestore and Web</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -70,7 +70,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>App Monetization</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -87,7 +87,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Using Firebase Test Lab to improve Mobile App quality</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -104,7 +104,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Using Google Cloud Test Lab to improve Mobile App quality</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -121,7 +121,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Intro to Android development with Kotlin</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -138,7 +138,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Build Your First Android App in Kotlin</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
@@ -155,7 +155,7 @@ export default class CardExample extends Component {
                 <CardBody>
                   <CardTitle>Get your Startup started</CardTitle>
                   <CardText>
-                    <p>Venue: ROC World Entrepreneurial Development Centre, Vocational Unit 1 Building</p>
+                    <p>Venue: LCU Fashion and Lifestyle Academy</p>
                     <br />
                     <p><b>Lead City University, Ibadan - NG</b></p>
                     </CardText>
