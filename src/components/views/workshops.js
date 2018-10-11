@@ -33,7 +33,7 @@ export default class CardExample extends Component {
             <div class="col"></div>
             <div class="col-12 col-sm-8">
               <Card>
-                <CardImage className="img-fluid" src="https://res.cloudinary.com/poetrique/image/upload/v1539166043/dsc-workshops/DSCworkshop_2.png" waves />
+                <CardImage className="img-fluid" src="https://res.cloudinary.com/poetrique/image/upload/v1539253784/dsc-workshops/DSCworkshop_2.png" waves />
                 <CardBody>
                   <CardTitle>Build a Node.js web app using Google Cloud</CardTitle>
                   <CardText>
