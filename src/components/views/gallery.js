@@ -49,24 +49,24 @@ export default class Gallery extends Component {
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438914/dsc-workshops/gallery/dsc2.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438827/dsc-workshops/gallery/NinT.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438716/dsc-workshops/gallery/IMG_3849.jpg" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438802/dsc-workshops/gallery/01.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438796/dsc-workshops/gallery/02.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438814/dsc-workshops/gallery/03.jpg" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
