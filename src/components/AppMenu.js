@@ -3,6 +3,7 @@ import { Navbar, NavbarBrand, NavbarNav, NavbarToggler, Collapse, NavItem, NavLi
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import Home from './views/home';
+import Gallery from './views/gallery';
 import Workshops from './views/workshops';
 import Join from './views/join';
 
@@ -39,6 +40,9 @@ class AppMenu extends Component {
                   <NavLink to="/">Home</NavLink>
                 </NavItem>
                 <NavItem>
+                  <NavLink to="/gallery">Gallery</NavLink>
+                </NavItem>
+                <NavItem>
                   <NavLink to="/workshops">Workshops</NavLink>
                 </NavItem>
                 <NavItem>
@@ -50,6 +54,7 @@ class AppMenu extends Component {
 
           <Route path='/blog' component={() => window.location = 'http://dscleadcity.blogspot.com'}/>
           <Route exact path="/" component={Home} />
+          <Route path="/Gallery" component={Gallery} />
           <Route path="/workshops" component={Workshops} />
           <Route path="/join" component={Join} />
         </div>
