@@ -54,7 +54,7 @@ class AppMenu extends Component {
 
           <Route path='/blog' component={() => window.location = 'http://dscleadcity.blogspot.com'}/>
           <Route exact path="/" component={Home} />
-          <Route path="/Gallery" component={Gallery} />
+          <Route path="/gallery" component={Gallery} />
           <Route path="/workshops" component={Workshops} />
           <Route path="/join" component={Join} />
         </div>
