@@ -38,13 +38,13 @@ export default class Gallery extends Component {
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438931/dsc-workshops/gallery/dsc4.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438928/dsc-workshops/gallery/dsc5.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438922/dsc-workshops/gallery/dsc1.jpg" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
