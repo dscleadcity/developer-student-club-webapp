@@ -4,7 +4,8 @@ import '../App.css';
 
 const responsive = {
   width: "100%",
-  height: "auto"
+  height: "auto",
+  margin: "0.5em 0 0.5em 0"
 }
 
 export default class Gallery extends Component {
