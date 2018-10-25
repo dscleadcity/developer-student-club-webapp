@@ -50,6 +50,13 @@ export default class CardExample extends Component {
             <div class="col"></div>
             <div class="col-12 col-sm-8">
               <Card>
+                <div class="row">
+                  <div class="col"></div>
+                  <div class="col-12 col-sm-10">
+                    <CardImage className="img-fluid" src="https://res.cloudinary.com/poetrique/image/upload/v1540444674/dsc-workshops/DSCworkshop_3.jpg" waves />
+                  </div>
+                  <div class="col"></div>
+                </div>
                 <CardBody>
                   <CardTitle>Cloud Firestore and Web</CardTitle>
                   <CardText>
