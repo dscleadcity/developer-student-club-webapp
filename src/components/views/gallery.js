@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 
 import '../App.css';
 
+const responsive = {
+  width: "100%",
+  height: "auto"
+}
+
 export default class Gallery extends Component {
   render() {
     return(
@@ -10,79 +15,79 @@ export default class Gallery extends Component {
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540439497/dsc-workshops/gallery/IMG_3848.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540439492/dsc-workshops/gallery/IMG_3859.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438977/dsc-workshops/gallery/dsc8.jpg" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
-            </div>
-            <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
           </div>
           <div class="row">
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+            </div>
+            <div class="col-12 col-sm-4">
+              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
           </div>
         </div>
