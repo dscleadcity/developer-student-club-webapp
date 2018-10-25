@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 
+import '../App.css';
+
 export default class Gallery extends Component {
   render() {
     return(
       <div>
-        <h1>Hello World</h1>
+        <h3 class="white-text content">PICTURES OF THE COMMUNITY</h3>
       </div>
     );
   }
