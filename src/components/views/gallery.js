@@ -85,7 +85,7 @@ export default class Gallery extends Component {
               <img style={responsive} src="" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
-              <img style={responsive} src="" alt="" title="DSC Lead City Community" />
+              <img style={responsive} src="https://res.cloudinary.com/poetrique/image/upload/v1540438460/dsc-workshops/gallery/IMG_3834.jpg" alt="" title="DSC Lead City Community" />
             </div>
             <div class="col-12 col-sm-4">
               <img style={responsive} src="" alt="" title="DSC Lead City Community" />
