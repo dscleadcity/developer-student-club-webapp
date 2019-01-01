@@ -11,7 +11,7 @@ export default class Footer extends Component {
   render() {
     return(
       <div style={footerStyle}>
-        <h6 class="white-text">DSC Lead City University &copy; 2018</h6>
+        <h6 class="white-text">DSC Lead City University &copy; 2018 - 2019</h6>
       </div>
     );
   }
